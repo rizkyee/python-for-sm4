@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estimasi Pengiriman ML</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body class="bg-gray-100">
+
+    <div class="max-w-7xl mx-auto p-6">
+
+        <h1 class="text-3xl font-bold text-orange-500 mb-6">
+            Estimasi Pengiriman Machine Learning
+        </h1>
+
+
+        <!-- INPUT -->
+        <div class="bg-white p-6 rounded-xl shadow mb-6">
+
+            <div class="grid md:grid-cols-2 gap-4">
+
+                <div>
+
+                    <label class="font-semibold">Kota Pengirim</label>
+
+                    <select id="asal" class="border p-3 rounded w-full">
+
+                        <option value="0">Surabaya</option>
+                        <option value="30">Sidoarjo</option>
+                        <option value="60">Gresik</option>
+                        <option value="120">Pasuruan</option>
+
+                    </select>
+
+                </div>
+
+
+                <div>
+
+                    <label class="font-semibold">Kota Tujuan</label>
+
+                    <select id="tujuan" class="border p-3 rounded w-full">
+
+                        <option value="80">Jombang</option>
+                        <option value="95">Malang</option>
+                        <option value="120">Kediri</option>
+                        <option value="170">Madiun</option>
+                        <option value="290">Banyuwangi</option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <button onclick="prediksi()" class="bg-orange-500 text-white px-6 py-2 mt-4 rounded">
+                Hitung Estimasi
+            </button>
+
+            <div id="hasil" class="mt-4 text-lg"></div>
+
+        </div>
+
+
+        <!-- GRAFIK -->
+        <div class="bg-white p-6 rounded-xl shadow mb-6">
+
+            <h2 class="text-xl font-semibold mb-4">
+                Grafik Linear Regression
+            </h2>
+
+            <canvas id="grafik"></canvas>
+
+        </div>
+
+
+        <!-- TABEL -->
+        <div class="bg-white p-6 rounded-xl shadow">
+
+            <h2 class="text-xl font-semibold mb-4">
+                100 Data Training
+            </h2>
+
+            <div class="overflow-y-scroll h-80">
+
+                <table class="w-full text-sm">
+
+                    <thead class="bg-orange-500 text-white">
+                        <tr>
+                            <th class="p-2">No</th>
+                            <th class="p-2">X (Jarak km)</th>
+                            <th class="p-2">Y (Hari)</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="dataTable"></tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <script>
+
+        // ===========================
+        // Generate 100 Data
+        // ===========================
+
+        let data = [];
+
+        for (let i = 1; i <= 100; i++) {
+
+            let x = Math.floor(Math.random() * 300) + 50;
+
+            let y = Math.round((0.01 * x) + Math.random());
+
+            data.push({ x, y });
+
+        }
+
+
+        // ===========================
+        // Render Table
+        // ===========================
+
+        let table = document.getElementById("dataTable");
+
+        data.forEach((d, i) => {
+
+            table.innerHTML += `
+<tr class="border-b">
+<td class="p-2">${i + 1}</td>
+<td class="p-2">${d.x}</td>
+<td class="p-2">${d.y}</td>
+</tr>
+`;
+
+        });
+
+
+        // ===========================
+        // Hitung Linear Regression
+        // ===========================
+
+        function linearRegression(data) {
+
+            let n = data.length;
+
+            let sumX = 0, sumY = 0, sumXY = 0, sumX2 = 0;
+
+            data.forEach(d => {
+
+                sumX += d.x;
+                sumY += d.y;
+                sumXY += d.x * d.y;
+                sumX2 += d.x * d.x;
+
+            });
+
+            let b = (n * sumXY - sumX * sumY) / (n * sumX2 - sumX * sumX);
+
+            let a = (sumY - b * sumX) / n;
+
+            return { a, b };
+
+        }
+
+        let model = linearRegression(data);
+
+
+        // ===========================
+        // Hitung Garis Regresi
+        // ===========================
+
+        let regressionLine = data.map(d => {
+
+            return model.a + model.b * d.x;
+
+        });
+
+
+        // ===========================
+        // Prediksi
+        // ===========================
+
+        function prediksi() {
+
+            let asal = parseInt(document.getElementById("asal").value);
+            let tujuan = parseInt(document.getElementById("tujuan").value);
+
+            let jarak = Math.abs(tujuan - asal);
+
+            let y = model.a + model.b * jarak;
+
+            let hari = Math.round(y);
+
+            document.getElementById("hasil").innerHTML = `
+
+<p>Jarak Pengiriman = <b>${jarak} km</b></p>
+
+<p>Model Machine Learning :</p>
+
+<p>Y = a + bX</p>
+
+<p>a = ${model.a.toFixed(3)}</p>
+<p>b = ${model.b.toFixed(3)}</p>
+
+<p>Substitusi :</p>
+
+<p>Y = ${model.a.toFixed(3)} + (${model.b.toFixed(3)} × ${jarak})</p>
+
+<p class="text-green-600 font-bold text-xl">
+Estimasi Pengiriman = ${hari} Hari
+</p>
+
+`;
+
+        }
+
+
+        // ===========================
+        // Grafik
+        // ===========================
+
+        const ctx = document.getElementById('grafik');
+
+        new Chart(ctx, {
+
+            type: 'line',
+
+            data: {
+
+                labels: data.map(d => d.x),
+
+                datasets: [
+
+                    {
+                        label: 'Data Training',
+                        data: data.map(d => d.y),
+                        borderWidth: 2,
+                        tension: 0.3
+                    },
+
+                    {
+                        label: 'Garis Linear Regression',
+                        data: regressionLine,
+                        borderWidth: 3,
+                        tension: 0,
+                        pointRadius: 0
+                    }
+
+                ]
+
+            },
+
+            options: {
+
+                responsive: true,
+
+                scales: {
+
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Jarak (X)'
+                        }
+                    },
+
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Estimasi Hari (Y)'
+                        }
+                    }
+
+                }
+
+            }
+
+        });
+
+    </script>
+
+</body>
+
+</html>
