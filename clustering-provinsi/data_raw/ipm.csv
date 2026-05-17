@@ -1,0 +1,457 @@
+bps_kode_provinsi,bps_nama_provinsi,tahun,indeks_pembangunan_manusia,satuan
+11,Aceh,2013,68.3,Point
+12,Sumatra Utara,2013,68.36,Point
+13,Sumatra Barat,2013,68.91,Point
+14,Riau,2013,69.91,Point
+15,Jambi,2013,67.76,Point
+16,Sumatra Selatan,2013,66.16,Point
+17,Bengkulu,2013,67.5,Point
+18,Lampung,2013,65.73,Point
+19,Kepulauan Bangka Belitung,2013,67.92,Point
+21,Kepulauan Riau,2013,73.02,Point
+31,DKI Jakarta,2013,78.08,Point
+32,Jawa Barat,2013,68.25,Point
+33,Jawa Tengah,2013,68.02,Point
+34,DI Yogyakarta,2013,76.44,Point
+35,Jawa Timur,2013,67.55,Point
+36,Banten,2013,69.47,Point
+51,Bali,2013,72.09,Point
+52,Nusa Tenggara Barat,2013,63.76,Point
+53,Nusa Tenggara Timur,2013,61.68,Point
+61,Kalimantan Barat,2013,64.3,Point
+62,Kalimantan Tengah,2013,67.41,Point
+63,Kalimantan Selatan,2013,67.17,Point
+64,Kalimantan Timur,2013,73.21,Point
+65,Kalimantan Utara,2013,67.99,Point
+71,Sulawesi Utara,2013,69.49,Point
+72,Sulawesi Tengah,2013,65.79,Point
+73,Sulawesi Selatan,2013,67.92,Point
+74,Sulawesi Tenggara,2013,67.55,Point
+75,Gorontalo,2013,64.7,Point
+76,Sulawesi Barat,2013,61.53,Point
+81,Maluku,2013,66.09,Point
+82,Maluku Utara,2013,64.78,Point
+91,Papua Barat,2013,60.91,Point
+92,Papua Barat Daya,2013,0.0,Point
+94,Papua,2013,56.25,Point
+93,Papua Selatan,2013,0.0,Point
+94,Papua Tengah,2013,0.0,Point
+95,Papua Pegunungan,2013,0.0,Point
+11,Aceh,2014,68.81,Point
+12,Sumatra Utara,2014,68.87,Point
+13,Sumatra Barat,2014,69.36,Point
+14,Riau,2014,70.33,Point
+15,Jambi,2014,68.24,Point
+16,Sumatra Selatan,2014,66.75,Point
+17,Bengkulu,2014,68.06,Point
+18,Lampung,2014,66.42,Point
+19,Kepulauan Bangka Belitung,2014,68.27,Point
+21,Kepulauan Riau,2014,73.4,Point
+31,DKI Jakarta,2014,78.39,Point
+32,Jawa Barat,2014,68.8,Point
+33,Jawa Tengah,2014,68.78,Point
+34,DI Yogyakarta,2014,76.81,Point
+35,Jawa Timur,2014,68.14,Point
+36,Banten,2014,69.89,Point
+51,Bali,2014,72.48,Point
+52,Nusa Tenggara Barat,2014,64.31,Point
+53,Nusa Tenggara Timur,2014,62.26,Point
+61,Kalimantan Barat,2014,64.89,Point
+62,Kalimantan Tengah,2014,67.77,Point
+63,Kalimantan Selatan,2014,67.63,Point
+64,Kalimantan Timur,2014,73.82,Point
+65,Kalimantan Utara,2014,68.64,Point
+71,Sulawesi Utara,2014,69.96,Point
+72,Sulawesi Tengah,2014,66.43,Point
+73,Sulawesi Selatan,2014,68.49,Point
+74,Sulawesi Tenggara,2014,68.07,Point
+75,Gorontalo,2014,65.17,Point
+76,Sulawesi Barat,2014,62.24,Point
+81,Maluku,2014,66.74,Point
+82,Maluku Utara,2014,65.18,Point
+91,Papua Barat,2014,61.28,Point
+92,Papua Barat Daya,2014,0.0,Point
+94,Papua,2014,56.75,Point
+93,Papua Selatan,2014,0.0,Point
+94,Papua Tengah,2014,0.0,Point
+95,Papua Pegunungan,2014,0.0,Point
+11,Aceh,2015,69.45,Point
+12,Sumatra Utara,2015,69.51,Point
+13,Sumatra Barat,2015,69.98,Point
+14,Riau,2015,70.84,Point
+15,Jambi,2015,68.89,Point
+16,Sumatra Selatan,2015,67.46,Point
+17,Bengkulu,2015,68.59,Point
+18,Lampung,2015,66.95,Point
+19,Kepulauan Bangka Belitung,2015,69.05,Point
+21,Kepulauan Riau,2015,73.75,Point
+31,DKI Jakarta,2015,78.99,Point
+32,Jawa Barat,2015,69.5,Point
+33,Jawa Tengah,2015,69.49,Point
+34,DI Yogyakarta,2015,77.59,Point
+35,Jawa Timur,2015,68.95,Point
+36,Banten,2015,70.27,Point
+51,Bali,2015,73.27,Point
+52,Nusa Tenggara Barat,2015,65.19,Point
+53,Nusa Tenggara Timur,2015,62.67,Point
+61,Kalimantan Barat,2015,65.59,Point
+62,Kalimantan Tengah,2015,68.53,Point
+63,Kalimantan Selatan,2015,68.38,Point
+64,Kalimantan Timur,2015,74.17,Point
+65,Kalimantan Utara,2015,68.76,Point
+71,Sulawesi Utara,2015,70.39,Point
+72,Sulawesi Tengah,2015,66.76,Point
+73,Sulawesi Selatan,2015,69.15,Point
+74,Sulawesi Tenggara,2015,68.75,Point
+75,Gorontalo,2015,65.86,Point
+76,Sulawesi Barat,2015,62.96,Point
+81,Maluku,2015,67.05,Point
+82,Maluku Utara,2015,65.91,Point
+91,Papua Barat,2015,61.73,Point
+92,Papua Barat Daya,2015,0.0,Point
+94,Papua,2015,57.25,Point
+93,Papua Selatan,2015,0.0,Point
+94,Papua Tengah,2015,0.0,Point
+95,Papua Pegunungan,2015,0.0,Point
+11,Aceh,2016,70.0,Point
+12,Sumatra Utara,2016,70.0,Point
+13,Sumatra Barat,2016,70.73,Point
+14,Riau,2016,71.2,Point
+15,Jambi,2016,69.62,Point
+16,Sumatra Selatan,2016,68.24,Point
+17,Bengkulu,2016,69.33,Point
+18,Lampung,2016,67.65,Point
+19,Kepulauan Bangka Belitung,2016,69.55,Point
+21,Kepulauan Riau,2016,73.99,Point
+31,DKI Jakarta,2016,79.6,Point
+32,Jawa Barat,2016,70.05,Point
+33,Jawa Tengah,2016,69.98,Point
+34,DI Yogyakarta,2016,78.38,Point
+35,Jawa Timur,2016,69.74,Point
+36,Banten,2016,70.96,Point
+51,Bali,2016,73.65,Point
+52,Nusa Tenggara Barat,2016,65.81,Point
+53,Nusa Tenggara Timur,2016,63.13,Point
+61,Kalimantan Barat,2016,65.88,Point
+62,Kalimantan Tengah,2016,69.13,Point
+63,Kalimantan Selatan,2016,69.05,Point
+64,Kalimantan Timur,2016,74.59,Point
+65,Kalimantan Utara,2016,69.2,Point
+71,Sulawesi Utara,2016,71.05,Point
+72,Sulawesi Tengah,2016,67.47,Point
+73,Sulawesi Selatan,2016,69.76,Point
+74,Sulawesi Tenggara,2016,69.31,Point
+75,Gorontalo,2016,66.29,Point
+76,Sulawesi Barat,2016,63.6,Point
+81,Maluku,2016,67.6,Point
+82,Maluku Utara,2016,66.63,Point
+91,Papua Barat,2016,62.21,Point
+92,Papua Barat Daya,2016,0.0,Point
+94,Papua,2016,58.05,Point
+93,Papua Selatan,2016,0.0,Point
+94,Papua Tengah,2016,0.0,Point
+95,Papua Pegunungan,2016,0.0,Point
+11,Aceh,2017,70.6,Point
+12,Sumatra Utara,2017,70.57,Point
+13,Sumatra Barat,2017,71.24,Point
+14,Riau,2017,71.79,Point
+15,Jambi,2017,69.99,Point
+16,Sumatra Selatan,2017,68.86,Point
+17,Bengkulu,2017,69.95,Point
+18,Lampung,2017,68.25,Point
+19,Kepulauan Bangka Belitung,2017,69.99,Point
+21,Kepulauan Riau,2017,74.45,Point
+31,DKI Jakarta,2017,80.06,Point
+32,Jawa Barat,2017,70.69,Point
+33,Jawa Tengah,2017,70.52,Point
+34,DI Yogyakarta,2017,78.89,Point
+35,Jawa Timur,2017,70.27,Point
+36,Banten,2017,71.42,Point
+51,Bali,2017,74.3,Point
+52,Nusa Tenggara Barat,2017,66.58,Point
+53,Nusa Tenggara Timur,2017,63.73,Point
+61,Kalimantan Barat,2017,66.26,Point
+62,Kalimantan Tengah,2017,69.79,Point
+63,Kalimantan Selatan,2017,69.65,Point
+64,Kalimantan Timur,2017,75.12,Point
+65,Kalimantan Utara,2017,69.84,Point
+71,Sulawesi Utara,2017,71.66,Point
+72,Sulawesi Tengah,2017,68.11,Point
+73,Sulawesi Selatan,2017,70.34,Point
+74,Sulawesi Tenggara,2017,69.86,Point
+75,Gorontalo,2017,67.01,Point
+76,Sulawesi Barat,2017,64.3,Point
+81,Maluku,2017,68.19,Point
+82,Maluku Utara,2017,67.2,Point
+91,Papua Barat,2017,62.99,Point
+92,Papua Barat Daya,2017,0.0,Point
+94,Papua,2017,59.09,Point
+93,Papua Selatan,2017,0.0,Point
+94,Papua Tengah,2017,0.0,Point
+95,Papua Pegunungan,2017,0.0,Point
+11,Aceh,2018,71.19,Point
+12,Sumatra Utara,2018,71.18,Point
+13,Sumatra Barat,2018,71.73,Point
+14,Riau,2018,72.44,Point
+15,Jambi,2018,70.65,Point
+16,Sumatra Selatan,2018,69.39,Point
+17,Bengkulu,2018,70.64,Point
+18,Lampung,2018,69.02,Point
+19,Kepulauan Bangka Belitung,2018,70.67,Point
+21,Kepulauan Riau,2018,74.84,Point
+31,DKI Jakarta,2018,80.47,Point
+32,Jawa Barat,2018,71.3,Point
+33,Jawa Tengah,2018,71.12,Point
+34,DI Yogyakarta,2018,79.53,Point
+35,Jawa Timur,2018,70.77,Point
+36,Banten,2018,71.95,Point
+51,Bali,2018,74.77,Point
+52,Nusa Tenggara Barat,2018,67.3,Point
+53,Nusa Tenggara Timur,2018,64.39,Point
+61,Kalimantan Barat,2018,66.98,Point
+62,Kalimantan Tengah,2018,70.42,Point
+63,Kalimantan Selatan,2018,70.17,Point
+64,Kalimantan Timur,2018,75.83,Point
+65,Kalimantan Utara,2018,70.56,Point
+71,Sulawesi Utara,2018,72.2,Point
+72,Sulawesi Tengah,2018,68.88,Point
+73,Sulawesi Selatan,2018,70.9,Point
+74,Sulawesi Tenggara,2018,70.61,Point
+75,Gorontalo,2018,67.71,Point
+76,Sulawesi Barat,2018,65.1,Point
+81,Maluku,2018,68.87,Point
+82,Maluku Utara,2018,67.76,Point
+91,Papua Barat,2018,63.74,Point
+92,Papua Barat Daya,2018,0.0,Point
+94,Papua,2018,60.06,Point
+93,Papua Selatan,2018,0.0,Point
+94,Papua Tengah,2018,0.0,Point
+95,Papua Pegunungan,2018,0.0,Point
+11,Aceh,2019,71.9,Point
+12,Sumatra Utara,2019,71.74,Point
+13,Sumatra Barat,2019,72.39,Point
+14,Riau,2019,73.0,Point
+15,Jambi,2019,71.26,Point
+16,Sumatra Selatan,2019,70.02,Point
+17,Bengkulu,2019,71.21,Point
+18,Lampung,2019,69.57,Point
+19,Kepulauan Bangka Belitung,2019,71.3,Point
+21,Kepulauan Riau,2019,75.48,Point
+31,DKI Jakarta,2019,80.76,Point
+32,Jawa Barat,2019,72.03,Point
+33,Jawa Tengah,2019,71.73,Point
+34,DI Yogyakarta,2019,79.99,Point
+35,Jawa Timur,2019,71.5,Point
+36,Banten,2019,72.44,Point
+51,Bali,2019,75.38,Point
+52,Nusa Tenggara Barat,2019,68.14,Point
+53,Nusa Tenggara Timur,2019,65.23,Point
+61,Kalimantan Barat,2019,67.65,Point
+62,Kalimantan Tengah,2019,70.91,Point
+63,Kalimantan Selatan,2019,70.72,Point
+64,Kalimantan Timur,2019,76.61,Point
+65,Kalimantan Utara,2019,71.15,Point
+71,Sulawesi Utara,2019,72.99,Point
+72,Sulawesi Tengah,2019,69.5,Point
+73,Sulawesi Selatan,2019,71.66,Point
+74,Sulawesi Tenggara,2019,71.2,Point
+75,Gorontalo,2019,68.49,Point
+76,Sulawesi Barat,2019,65.73,Point
+81,Maluku,2019,69.45,Point
+82,Maluku Utara,2019,68.7,Point
+91,Papua Barat,2019,64.7,Point
+92,Papua Barat Daya,2019,0.0,Point
+94,Papua,2019,60.84,Point
+93,Papua Selatan,2019,0.0,Point
+94,Papua Tengah,2019,0.0,Point
+95,Papua Pegunungan,2019,0.0,Point
+11,Aceh,2020,73.29,Point
+12,Sumatra Utara,2020,73.62,Point
+13,Sumatra Barat,2020,74.29,Point
+14,Riau,2020,73.67,Point
+15,Jambi,2020,72.29,Point
+16,Sumatra Selatan,2020,71.62,Point
+17,Bengkulu,2020,72.93,Point
+18,Lampung,2020,71.04,Point
+19,Kepulauan Bangka Belitung,2020,72.74,Point
+21,Kepulauan Riau,2020,77.69,Point
+31,DKI Jakarta,2020,81.92,Point
+32,Jawa Barat,2020,72.61,Point
+33,Jawa Tengah,2020,71.88,Point
+34,DI Yogyakarta,2020,79.95,Point
+35,Jawa Timur,2020,73.04,Point
+36,Banten,2020,74.41,Point
+51,Bali,2020,76.52,Point
+52,Nusa Tenggara Barat,2020,70.46,Point
+53,Nusa Tenggara Timur,2020,66.93,Point
+61,Kalimantan Barat,2020,68.76,Point
+62,Kalimantan Tengah,2020,72.62,Point
+63,Kalimantan Selatan,2020,73.09,Point
+64,Kalimantan Timur,2020,75.94,Point
+65,Kalimantan Utara,2020,71.0,Point
+71,Sulawesi Utara,2020,73.67,Point
+72,Sulawesi Tengah,2020,70.31,Point
+73,Sulawesi Selatan,2020,73.08,Point
+74,Sulawesi Tenggara,2020,71.61,Point
+75,Gorontalo,2020,69.51,Point
+76,Sulawesi Barat,2020,68.4,Point
+81,Maluku,2020,71.34,Point
+82,Maluku Utara,2020,69.3,Point
+91,Papua Barat,2020,65.94,Point
+92,Papua Barat Daya,2020,0.0,Point
+94,Papua,2020,61.22,Point
+93,Papua Selatan,2020,0.0,Point
+94,Papua Tengah,2020,0.0,Point
+95,Papua Pegunungan,2020,0.0,Point
+11,Aceh,2021,73.48,Point
+12,Sumatra Utara,2021,73.84,Point
+13,Sumatra Barat,2021,74.56,Point
+14,Riau,2021,73.89,Point
+15,Jambi,2021,72.62,Point
+16,Sumatra Selatan,2021,71.83,Point
+17,Bengkulu,2021,73.16,Point
+18,Lampung,2021,71.25,Point
+19,Kepulauan Bangka Belitung,2021,72.96,Point
+21,Kepulauan Riau,2021,77.87,Point
+31,DKI Jakarta,2021,82.25,Point
+32,Jawa Barat,2021,72.96,Point
+33,Jawa Tengah,2021,72.17,Point
+34,DI Yogyakarta,2021,80.22,Point
+35,Jawa Timur,2021,73.48,Point
+36,Banten,2021,74.68,Point
+51,Bali,2021,76.69,Point
+52,Nusa Tenggara Barat,2021,70.86,Point
+53,Nusa Tenggara Timur,2021,67.02,Point
+61,Kalimantan Barat,2021,68.99,Point
+62,Kalimantan Tengah,2021,72.81,Point
+63,Kalimantan Selatan,2021,73.45,Point
+64,Kalimantan Timur,2021,76.6,Point
+65,Kalimantan Utara,2021,71.57,Point
+71,Sulawesi Utara,2021,74.03,Point
+72,Sulawesi Tengah,2021,70.54,Point
+73,Sulawesi Selatan,2021,73.38,Point
+74,Sulawesi Tenggara,2021,71.82,Point
+75,Gorontalo,2021,69.82,Point
+76,Sulawesi Barat,2021,68.64,Point
+81,Maluku,2021,71.55,Point
+82,Maluku Utara,2021,69.56,Point
+91,Papua Barat,2021,66.11,Point
+92,Papua Barat Daya,2021,0.0,Point
+94,Papua,2021,61.4,Point
+93,Papua Selatan,2021,0.0,Point
+94,Papua Tengah,2021,0.0,Point
+95,Papua Pegunungan,2021,0.0,Point
+11,Aceh,2022,74.11,Point
+12,Sumatra Utara,2022,74.51,Point
+13,Sumatra Barat,2022,75.16,Point
+14,Riau,2022,74.45,Point
+15,Jambi,2022,73.11,Point
+16,Sumatra Selatan,2022,72.48,Point
+17,Bengkulu,2022,73.68,Point
+18,Lampung,2022,71.79,Point
+19,Kepulauan Bangka Belitung,2022,73.5,Point
+21,Kepulauan Riau,2022,78.48,Point
+31,DKI Jakarta,2022,82.77,Point
+32,Jawa Barat,2022,73.63,Point
+33,Jawa Tengah,2022,72.8,Point
+34,DI Yogyakarta,2022,80.65,Point
+35,Jawa Timur,2022,74.05,Point
+36,Banten,2022,75.25,Point
+51,Bali,2022,77.4,Point
+52,Nusa Tenggara Barat,2022,71.65,Point
+53,Nusa Tenggara Timur,2022,67.63,Point
+61,Kalimantan Barat,2022,69.71,Point
+62,Kalimantan Tengah,2022,73.17,Point
+63,Kalimantan Selatan,2022,74.0,Point
+64,Kalimantan Timur,2022,77.36,Point
+65,Kalimantan Utara,2022,72.21,Point
+71,Sulawesi Utara,2022,74.52,Point
+72,Sulawesi Tengah,2022,71.01,Point
+73,Sulawesi Selatan,2022,73.96,Point
+74,Sulawesi Tenggara,2022,72.38,Point
+75,Gorontalo,2022,70.62,Point
+76,Sulawesi Barat,2022,69.19,Point
+81,Maluku,2022,72.04,Point
+82,Maluku Utara,2022,70.26,Point
+91,Papua Barat,2022,66.03,Point
+92,Papua Barat Daya,2022,68.6,Point
+94,Papua,2022,72.57,Point
+93,Papua Selatan,2022,67.39,Point
+94,Papua Tengah,2022,58.76,Point
+95,Papua Pegunungan,2022,52.69,Point
+11,Aceh,2023,74.7,Point
+12,Sumatra Utara,2023,75.13,Point
+13,Sumatra Barat,2023,75.64,Point
+14,Riau,2023,74.95,Point
+15,Jambi,2023,73.73,Point
+16,Sumatra Selatan,2023,73.18,Point
+17,Bengkulu,2023,74.3,Point
+18,Lampung,2023,72.48,Point
+19,Kepulauan Bangka Belitung,2023,74.09,Point
+21,Kepulauan Riau,2023,79.08,Point
+31,DKI Jakarta,2023,83.55,Point
+32,Jawa Barat,2023,74.24,Point
+33,Jawa Tengah,2023,73.39,Point
+34,DI Yogyakarta,2023,81.09,Point
+35,Jawa Timur,2023,74.65,Point
+36,Banten,2023,75.77,Point
+51,Bali,2023,78.01,Point
+52,Nusa Tenggara Barat,2023,72.37,Point
+53,Nusa Tenggara Timur,2023,68.4,Point
+61,Kalimantan Barat,2023,70.47,Point
+62,Kalimantan Tengah,2023,73.73,Point
+63,Kalimantan Selatan,2023,74.66,Point
+64,Kalimantan Timur,2023,78.2,Point
+65,Kalimantan Utara,2023,72.88,Point
+71,Sulawesi Utara,2023,75.04,Point
+72,Sulawesi Tengah,2023,71.66,Point
+73,Sulawesi Selatan,2023,74.6,Point
+74,Sulawesi Tenggara,2023,72.94,Point
+75,Gorontalo,2023,71.25,Point
+76,Sulawesi Barat,2023,69.8,Point
+81,Maluku,2023,72.75,Point
+82,Maluku Utara,2023,70.98,Point
+91,Papua Barat,2023,66.84,Point
+92,Papua Barat Daya,2023,69.07,Point
+94,Papua,2023,73.23,Point
+93,Papua Selatan,2023,68.24,Point
+94,Papua Tengah,2023,59.44,Point
+95,Papua Pegunungan,2023,53.45,Point
+11,Aceh,2024,75.36,Point
+12,Sumatra Utara,2024,75.76,Point
+13,Sumatra Barat,2024,76.43,Point
+14,Riau,2024,75.67,Point
+15,Jambi,2024,74.36,Point
+16,Sumatra Selatan,2024,73.84,Point
+17,Bengkulu,2024,74.91,Point
+18,Lampung,2024,73.13,Point
+19,Kepulauan Bangka Belitung,2024,74.55,Point
+21,Kepulauan Riau,2024,79.89,Point
+31,DKI Jakarta,2024,84.15,Point
+32,Jawa Barat,2024,74.92,Point
+33,Jawa Tengah,2024,73.87,Point
+34,DI Yogyakarta,2024,81.62,Point
+35,Jawa Timur,2024,75.35,Point
+36,Banten,2024,76.35,Point
+51,Bali,2024,78.63,Point
+52,Nusa Tenggara Barat,2024,73.1,Point
+53,Nusa Tenggara Timur,2024,69.14,Point
+61,Kalimantan Barat,2024,71.19,Point
+62,Kalimantan Tengah,2024,74.28,Point
+63,Kalimantan Selatan,2024,75.19,Point
+64,Kalimantan Timur,2024,78.79,Point
+65,Kalimantan Utara,2024,73.41,Point
+71,Sulawesi Utara,2024,75.68,Point
+72,Sulawesi Tengah,2024,72.24,Point
+73,Sulawesi Selatan,2024,75.18,Point
+74,Sulawesi Tenggara,2024,73.62,Point
+75,Gorontalo,2024,72.01,Point
+76,Sulawesi Barat,2024,70.46,Point
+81,Maluku,2024,73.4,Point
+82,Maluku Utara,2024,71.84,Point
+91,Papua Barat,2024,67.69,Point
+92,Papua Barat Daya,2024,69.65,Point
+94,Papua,2024,73.83,Point
+93,Papua Selatan,2024,68.86,Point
+94,Papua Tengah,2024,60.25,Point
+95,Papua Pegunungan,2024,54.43,Point
