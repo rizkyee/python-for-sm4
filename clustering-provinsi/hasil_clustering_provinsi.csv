@@ -1,0 +1,101 @@
+Provinsi,Tahun,IPM,Kemiskinan,TPT,Cluster,Kategori
+ACEH,2016,70.0,16.43,6.17,0,Kesejahteraan Relatif Tinggi
+BALI,2016,73.65,4.25,4.8,0,Kesejahteraan Relatif Tinggi
+BANTEN,2016,70.96,5.36,8.09,2,Kesejahteraan Relatif Sedang
+BENGKULU,2016,69.33,17.03,3.59,1,Kesejahteraan Relatif Rendah
+DI YOGYAKARTA,2016,78.38,13.34,4.06,0,Kesejahteraan Relatif Tinggi
+DKI JAKARTA,2016,79.6,3.75,7.18,2,Kesejahteraan Relatif Sedang
+GORONTALO,2016,66.29,17.63,2.58,1,Kesejahteraan Relatif Rendah
+JAMBI,2016,69.62,8.37,4.59,0,Kesejahteraan Relatif Tinggi
+JAWA BARAT,2016,70.05,8.77,8.31,2,Kesejahteraan Relatif Sedang
+JAWA TENGAH,2016,69.98,13.19,5.57,0,Kesejahteraan Relatif Tinggi
+JAWA TIMUR,2016,69.74,11.85,5.49,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN BARAT,2016,65.88,8.01,5.11,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN SELATAN,2016,69.05,4.52,4.74,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TENGAH,2016,69.13,5.36,4.26,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TIMUR,2016,74.59,6.0,5.71,2,Kesejahteraan Relatif Sedang
+KALIMANTAN UTARA,2016,69.2,6.99,4.33,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN BANGKA BELITUNG,2016,69.55,5.04,4.77,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN RIAU,2016,73.99,5.84,8.23,2,Kesejahteraan Relatif Sedang
+LAMPUNG,2016,67.65,13.86,4.52,1,Kesejahteraan Relatif Rendah
+MALUKU,2016,67.6,19.26,6.88,1,Kesejahteraan Relatif Rendah
+MALUKU UTARA,2016,66.63,6.41,3.98,0,Kesejahteraan Relatif Tinggi
+NUSA TENGGARA BARAT,2016,65.81,16.02,2.89,1,Kesejahteraan Relatif Rendah
+NUSA TENGGARA TIMUR,2016,63.13,22.01,3.54,1,Kesejahteraan Relatif Rendah
+PAPUA,2016,58.05,28.4,2.83,1,Kesejahteraan Relatif Rendah
+PAPUA BARAT,2016,62.21,24.88,5.37,1,Kesejahteraan Relatif Rendah
+RIAU,2016,71.2,7.67,4.37,0,Kesejahteraan Relatif Tinggi
+SULAWESI BARAT,2016,63.6,11.19,2.34,1,Kesejahteraan Relatif Rendah
+SULAWESI SELATAN,2016,69.76,9.72,4.51,0,Kesejahteraan Relatif Tinggi
+SULAWESI TENGAH,2016,67.47,14.09,3.0,1,Kesejahteraan Relatif Rendah
+SULAWESI TENGGARA,2016,69.31,12.77,3.36,0,Kesejahteraan Relatif Tinggi
+SULAWESI UTARA,2016,71.05,8.2,6.61,2,Kesejahteraan Relatif Sedang
+SUMATERA BARAT,2016,70.73,7.14,6.28,2,Kesejahteraan Relatif Sedang
+ACEH,2017,70.6,15.92,6.17,0,Kesejahteraan Relatif Tinggi
+BALI,2017,74.3,4.25,4.8,0,Kesejahteraan Relatif Tinggi
+BANTEN,2017,71.42,5.59,8.09,2,Kesejahteraan Relatif Sedang
+BENGKULU,2017,69.95,15.59,3.59,1,Kesejahteraan Relatif Rendah
+DI YOGYAKARTA,2017,78.89,12.36,4.06,0,Kesejahteraan Relatif Tinggi
+DKI JAKARTA,2017,80.06,3.78,7.18,2,Kesejahteraan Relatif Sedang
+GORONTALO,2017,67.01,17.14,2.58,1,Kesejahteraan Relatif Rendah
+JAMBI,2017,69.99,7.9,4.59,0,Kesejahteraan Relatif Tinggi
+JAWA BARAT,2017,70.69,7.83,8.31,2,Kesejahteraan Relatif Sedang
+JAWA TENGAH,2017,70.52,12.23,5.57,0,Kesejahteraan Relatif Tinggi
+JAWA TIMUR,2017,70.27,11.2,5.49,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN BARAT,2017,66.26,7.73,5.11,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN SELATAN,2017,69.65,4.7,4.74,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TENGAH,2017,69.79,5.26,4.26,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TIMUR,2017,75.12,6.08,5.71,2,Kesejahteraan Relatif Sedang
+KALIMANTAN UTARA,2017,69.84,6.96,4.33,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN BANGKA BELITUNG,2017,69.99,5.3,4.77,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN RIAU,2017,74.45,6.13,8.23,2,Kesejahteraan Relatif Sedang
+LAMPUNG,2017,68.25,13.04,4.52,0,Kesejahteraan Relatif Tinggi
+MALUKU,2017,68.19,18.29,6.88,1,Kesejahteraan Relatif Rendah
+MALUKU UTARA,2017,67.2,6.44,3.98,0,Kesejahteraan Relatif Tinggi
+NUSA TENGGARA BARAT,2017,66.58,15.05,2.89,1,Kesejahteraan Relatif Rendah
+NUSA TENGGARA TIMUR,2017,63.73,21.38,3.54,1,Kesejahteraan Relatif Rendah
+PAPUA,2017,59.09,27.76,2.83,1,Kesejahteraan Relatif Rendah
+PAPUA BARAT,2017,62.99,23.12,5.37,1,Kesejahteraan Relatif Rendah
+RIAU,2017,71.79,7.41,4.37,0,Kesejahteraan Relatif Tinggi
+SULAWESI BARAT,2017,64.3,11.18,2.34,1,Kesejahteraan Relatif Rendah
+SULAWESI SELATAN,2017,70.34,9.48,4.51,0,Kesejahteraan Relatif Tinggi
+SULAWESI TENGAH,2017,68.11,14.22,3.0,1,Kesejahteraan Relatif Rendah
+SULAWESI TENGGARA,2017,69.86,11.97,3.36,0,Kesejahteraan Relatif Tinggi
+SULAWESI UTARA,2017,71.66,7.9,6.61,2,Kesejahteraan Relatif Sedang
+SUMATERA BARAT,2017,71.24,6.75,6.28,2,Kesejahteraan Relatif Sedang
+SUMATERA SELATAN,2017,68.86,13.1,4.63,0,Kesejahteraan Relatif Tinggi
+SUMATERA UTARA,2017,70.57,9.28,6.16,0,Kesejahteraan Relatif Tinggi
+ACEH,2022,74.11,14.75,6.17,2,Kesejahteraan Relatif Sedang
+BALI,2022,77.4,4.53,4.8,2,Kesejahteraan Relatif Sedang
+BANTEN,2022,75.25,6.24,8.09,2,Kesejahteraan Relatif Sedang
+BENGKULU,2022,73.68,14.34,3.59,0,Kesejahteraan Relatif Tinggi
+DI YOGYAKARTA,2022,80.65,11.49,4.06,0,Kesejahteraan Relatif Tinggi
+DKI JAKARTA,2022,82.77,4.61,7.18,2,Kesejahteraan Relatif Sedang
+GORONTALO,2022,70.62,15.51,2.58,1,Kesejahteraan Relatif Rendah
+JAMBI,2022,73.11,7.7,4.59,0,Kesejahteraan Relatif Tinggi
+JAWA BARAT,2022,73.63,7.98,8.31,2,Kesejahteraan Relatif Sedang
+JAWA TENGAH,2022,72.8,10.98,5.57,0,Kesejahteraan Relatif Tinggi
+JAWA TIMUR,2022,74.05,10.49,5.49,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN BARAT,2022,69.71,6.81,5.11,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN SELATAN,2022,74.0,4.61,4.74,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TENGAH,2022,73.17,5.22,4.26,0,Kesejahteraan Relatif Tinggi
+KALIMANTAN TIMUR,2022,77.36,6.44,5.71,2,Kesejahteraan Relatif Sedang
+KALIMANTAN UTARA,2022,72.21,6.86,4.33,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN BANGKA BELITUNG,2022,73.5,4.61,4.77,0,Kesejahteraan Relatif Tinggi
+KEPULAUAN RIAU,2022,78.48,6.03,8.23,2,Kesejahteraan Relatif Sedang
+LAMPUNG,2022,71.79,11.44,4.52,0,Kesejahteraan Relatif Tinggi
+MALUKU,2022,72.04,16.23,6.88,2,Kesejahteraan Relatif Sedang
+MALUKU UTARA,2022,70.26,6.37,3.98,0,Kesejahteraan Relatif Tinggi
+NUSA TENGGARA BARAT,2022,71.65,13.82,2.89,0,Kesejahteraan Relatif Tinggi
+NUSA TENGGARA TIMUR,2022,67.63,20.23,3.54,1,Kesejahteraan Relatif Rendah
+PAPUA,2022,72.57,26.8,2.83,1,Kesejahteraan Relatif Rendah
+PAPUA BARAT,2022,66.03,21.43,5.37,1,Kesejahteraan Relatif Rendah
+RIAU,2022,74.45,6.84,4.37,0,Kesejahteraan Relatif Tinggi
+SULAWESI BARAT,2022,69.19,11.92,2.34,0,Kesejahteraan Relatif Tinggi
+SULAWESI SELATAN,2022,73.96,8.66,4.51,0,Kesejahteraan Relatif Tinggi
+SULAWESI TENGAH,2022,71.01,12.3,3.0,0,Kesejahteraan Relatif Tinggi
+SULAWESI TENGGARA,2022,72.38,11.27,3.36,0,Kesejahteraan Relatif Tinggi
+SULAWESI UTARA,2022,74.52,7.34,6.61,2,Kesejahteraan Relatif Sedang
+SUMATERA BARAT,2022,75.16,6.04,6.28,2,Kesejahteraan Relatif Sedang
+SUMATERA SELATAN,2022,72.48,11.95,4.63,0,Kesejahteraan Relatif Tinggi
+SUMATERA UTARA,2022,74.51,8.33,6.16,2,Kesejahteraan Relatif Sedang
